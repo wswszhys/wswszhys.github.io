@@ -1,6 +1,6 @@
 {
-    "name": "ayjn_video",
-    "short_name": "ayjn_video",
+    "name": "preview_video",
+    "short_name": "preview_video",
     "start_url": ".",
     "display": "standalone",
     "background_color": "#0175C2",

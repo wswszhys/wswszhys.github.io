@@ -23749,7 +23749,7 @@ afJ(){var s=0,r=A.t(t.H),q,p=2,o,n=[],m,l,k,j,i,h
 var $async$afJ=A.o(function(a,b){if(a===1){o=b
 s=p}while(true)switch(s){case 0:p=4
 s=7
-return A.y(A.aV8("http://rcomcf7iw.hn-bkt.clouddn.com",12e4,9e4).Va(0,"/ayjn.json",t.z),$async$afJ)
+return A.y(A.aV8("https://raw.githubusercontent.com/wswszhys/wswszhys.github.io/master",12e4,9e4).Va(0,"/ayjn.json",t.z),$async$afJ)
 case 7:m=b
 if(m.d!==200){s=1
 break}l=A.bn("rows")
